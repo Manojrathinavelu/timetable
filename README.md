@@ -137,7 +137,7 @@ Execute the program
 
 ![image](./timetablemanoj.png)
 
-![image](./errormanoj.png)
+![image](./noerrormanoj.png)
 
 ## RESULT
 
